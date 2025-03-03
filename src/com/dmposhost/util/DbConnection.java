@@ -6,14 +6,14 @@ import javax.swing.JOptionPane;
  
 /**
  * Clase que permite conectar con la base de datos
- * @author chenao
+ * @author pcc
  *
  */
 public class DbConnection {
    /**Parametros de conexion*/
    static String bd = "dmticket";
    static String login = "root";
-   static String password = "root";
+   static String password = "root2";
    String ipbd = "";
    String url  = "";
    //Pruebas
